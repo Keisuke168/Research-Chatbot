@@ -11,3 +11,4 @@ python research_chatbot.py
 1.  参照ボタンから、質問したい論文のPDFファイルを選択する
 2.  論文の読み込みが終わったら、入力箇所から質問する
 
+![Sample](sample.JPG)
