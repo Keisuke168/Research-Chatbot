@@ -3,3 +3,4 @@ chromadb
 langchain
 pypdf
 tiktoken
+customtkinter
